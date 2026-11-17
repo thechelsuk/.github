@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Prefer to ask directly?
+    url: https://thechels.uk/c/ama
+    about: Send a message without a GitHub account.
+  - name: Sponsor a Feature request bump
+    url: https://github.com/sponsors/thechelsuk
+    about: A one-off $10 moves your feature request to the top of the list for review.
