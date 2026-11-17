@@ -19,7 +19,7 @@ with it.
 ## Repos with their own forms
 
 A repo's own `.github/ISSUE_TEMPLATE/` replaces these completely. These repos
-keep copies of the four forms next to their own, so update them when these
+keep copies of the four forms next to their own, so need updating when these
 change:
 
 - `uk.thechels`: its content forms (add a book, film, post and so on).
