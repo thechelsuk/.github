@@ -57,10 +57,5 @@ Done by hand on the websites:
 - Make sure everything works with a keyboard.
 - Say in your pull request what you checked.
 
-## Statements for each site
-
-- [thechels.uk](https://thechels.uk/accessibility)
-- [Cheltenham Open Data](https://cheltenham-od.uk/accessibility)
-- Apps: 
 
 Last reviewed: 22 November 2026.
