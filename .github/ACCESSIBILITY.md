@@ -30,7 +30,8 @@ Nothing I make has been audited by anyone outside the project.
 
 I aim to meet the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) 2.2 at level AA. That's a target, not a claim that everything meets it.
 
-Apps follow Apple's Human Interface Guidelines. VoiceOver and Dynamic Type aren't yet tested on every app. Each app's App Store page lists the accessibility features it supports, such as dark mode, larger text and reduced motion.
+## Apps
+Apps follow Apple's Human Interface Guidelines. VoiceOver and Dynamic Type aren't yet tested on every app. Each app's App Store page lists the accessibility features it supports, such as dark mode, larger text and reduced motion see the accessibility section of each app's App Store page for details.
 
 ## What's checked
 
@@ -60,6 +61,6 @@ Done by hand on the websites:
 
 - [thechels.uk](https://thechels.uk/accessibility)
 - [Cheltenham Open Data](https://cheltenham-od.uk/accessibility)
-- Apps: the accessibility section of each app's App Store page.
+- Apps: 
 
 Last reviewed: 22 November 2026.
